@@ -1,6 +1,6 @@
 - Hi, I’m @ereifsnyder
 - UC Berkeley Master of City Planning '22
-- Interested in using data to give voice to disenfranchised communities and craft equitable policy
+- Interested in using data to craft equitable policy
 
 
 <!---
